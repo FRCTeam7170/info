@@ -67,7 +67,7 @@ git checkout master
 # "--no-ff" means no fast forward; refer to Driessen's post for the meaning.
 git merge --no-ff develop
 
-# Tag the commit? (see the tagging section bellow)
+# Tag the commit? (see the tagging section below)
 
 # Push the changes to the remote repository's copy of the master branch.
 git push origin master
@@ -141,7 +141,7 @@ git checkout master
 # Merge the changes into master.
 git merge --no-ff hotfix-the-thing
 
-# Tag the commit? (see the tagging section bellow)
+# Tag the commit? (see the tagging section below)
 
 # Push the changes to the remote repositoriy's copy of the master branch.
 git push origin master
