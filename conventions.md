@@ -1,4 +1,4 @@
-# Java Code Conventions
+# FRC Team 7170 Java Code Conventions
 
 This document outlines the code conventions for new projects written in Java by FRC Team 7170.
 
